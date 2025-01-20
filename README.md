@@ -31,7 +31,7 @@ The code used to fine-tune open source models is available in `code/Finetuning`.
 The code used to evaluate LLM responses is available in `code/evaluation`
 
 ## Fine-Tuned Model Access
-Models fine-tuned by MultiTaskBench Dataset are available on our [Huggingface](https://huggingface.co/Essacheez/LLAMA3.1-8b-SafetyData-combine-4.8k-default-style).
+All the Models finetuned for the paper are available on our [Huggingface](https://huggingface.co/Essacheez).
 
 
 ## Licensing
